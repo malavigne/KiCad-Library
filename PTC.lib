@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PTC
+#
+DEF PTC VR 0 0 N Y 1 F N
+F0 "VR" 10 100 50 H I C TNN
+F1 "PTC" 0 -90 50 H V C CNN
+F2 "" 0 0 50 V V C CNN
+F3 "" 0 0 50 V V C CNN
+DRAW
+S -150 -40 150 40 0 1 0 N
+P 3 0 1 0  -130 -70  100 70  130 70 N
+X ~ 1 -250 0 100 R 50 50 1 1 P
+X ~ 2 250 0 100 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

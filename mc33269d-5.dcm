@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC33269D-5.0G
+D Low Dropout 800mA 30V Linear Regulator, Fixed Output 5V, SO-8
+K Voltage Regulator 800mA 5V
+F http://www.mouser.com/ds/2/308/MC33269-D-77885.pdf
+$ENDCMP
+#
+#End Doc Library

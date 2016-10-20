@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTC
+D PTC - fuse
+K PTC fuse
+$ENDCMP
+#
+#End Doc Library
