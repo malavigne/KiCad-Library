@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP H-Bridge_30V
+D Transistor N-MOSFET (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
 $CMP MIC5504-3.3YM5-TR
 D 300 mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5
 K 300mA LDO Regulator Fixed Positive
